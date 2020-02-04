@@ -2789,332 +2789,452 @@
     ],
     "70": [
         {
-            "start_year": 2017,
-            "name": "ИС-71",
-            "faculty_id": "20",
-            "speciality_id": "0603",
-            "group_br": 31361,
-            "id": "2000016251"
-        },
-        {
-            "start_year": 2017,
-            "name": "ИС-72",
-            "faculty_id": "20",
-            "speciality_id": "0603",
-            "group_br": 31362,
-            "id": "2000016252"
-        },
-        {
             "start_year": 2018,
-            "name": "ИС-81",
-            "faculty_id": "20",
-            "speciality_id": "0603",
-            "group_br": 31020,
-            "id": "2000016327"
-        },
-        {
-            "start_year": 2018,
-            "name": "ИС-82",
-            "faculty_id": "20",
-            "speciality_id": "0603",
-            "group_br": 31021,
-            "id": "2000016405"
+            "name": "8ИВТ-81",
+            "faculty_id": "70",
+            "speciality_id": "0525",
+            "group_br": 31167,
+            "id": "7000015815"
         },
         {
             "start_year": 2019,
-            "name": "ИС-91",
-            "faculty_id": "20",
-            "speciality_id": "0603",
-            "group_br": 31089,
-            "id": "2000017291"
-        },
-        {
-            "start_year": 2019,
-            "name": "ИС-92",
-            "faculty_id": "20",
-            "speciality_id": "0603",
-            "group_br": 31090,
-            "id": "2000017297"
+            "name": "8ИВТ-91",
+            "faculty_id": "70",
+            "speciality_id": "1125",
+            "group_br": 31426,
+            "id": "7000017068"
         },
         {
             "start_year": 2018,
-            "name": "П-81",
-            "faculty_id": "20",
-            "speciality_id": "0605",
-            "group_br": 31018,
-            "id": "2000016325"
+            "name": "8ПИ-81",
+            "faculty_id": "70",
+            "speciality_id": "0366",
+            "group_br": 31168,
+            "id": "7000015818"
+        },
+        {
+            "start_year": 2019,
+            "name": "8ПИ-91",
+            "faculty_id": "70",
+            "speciality_id": "1128",
+            "group_br": 31425,
+            "id": "7000017071"
         },
         {
             "start_year": 2018,
-            "name": "П-82",
-            "faculty_id": "20",
-            "speciality_id": "0605",
-            "group_br": 31110,
-            "id": "2000016824"
+            "name": "8ПИЭ-81",
+            "faculty_id": "70",
+            "speciality_id": "0365",
+            "group_br": 31462,
+            "id": "7000015816"
         },
         {
             "start_year": 2019,
-            "name": "П-91",
-            "faculty_id": "20",
-            "speciality_id": "0605",
-            "group_br": 31092,
-            "id": "2000017294"
-        },
-        {
-            "start_year": 2019,
-            "name": "П-92",
-            "faculty_id": "20",
-            "speciality_id": "0605",
-            "group_br": 31153,
-            "id": "2000017299"
+            "name": "8ПИЭ-91",
+            "faculty_id": "70",
+            "speciality_id": "1127",
+            "group_br": 31528,
+            "id": "7000017069"
         },
         {
             "start_year": 2017,
-            "name": "П(з)-71",
-            "faculty_id": "20",
-            "speciality_id": "0605",
-            "group_br": 31449,
-            "id": "2000016263"
+            "name": "8ПИЭ(з)-71",
+            "faculty_id": "70",
+            "speciality_id": "0365",
+            "group_br": 31436,
+            "id": "7000013775"
         },
         {
             "start_year": 2018,
-            "name": "П(з)-81",
-            "faculty_id": "20",
-            "speciality_id": "0605",
-            "group_br": 31596,
-            "id": "2000017650"
+            "name": "8ПИЭ(з)-81",
+            "faculty_id": "70",
+            "speciality_id": "0365",
+            "group_br": 31245,
+            "id": "7000015817"
         },
         {
             "start_year": 2019,
-            "name": "П(з)-91",
-            "faculty_id": "20",
-            "speciality_id": "0605",
-            "group_br": 31093,
-            "id": "2000017457"
+            "name": "8ПИЭ(з)-91",
+            "faculty_id": "70",
+            "speciality_id": "1127",
+            "group_br": 31529,
+            "id": "7000017070"
+        },
+        {
+            "start_year": 2018,
+            "name": "8ПС-81",
+            "faculty_id": "70",
+            "speciality_id": "0534",
+            "group_br": 31024,
+            "id": "7000015819"
         },
         {
             "start_year": 2019,
-            "name": "П(з)-92",
-            "faculty_id": "20",
-            "speciality_id": "0605",
-            "group_br": 31434,
-            "id": "2000017458"
+            "name": "8ПС-91",
+            "faculty_id": "70",
+            "speciality_id": "1130",
+            "group_br": 30987,
+            "id": "7000017072"
         },
         {
             "start_year": 2017,
-            "name": "САД-71",
-            "faculty_id": "20",
-            "speciality_id": "0602",
-            "group_br": 30989,
-            "id": "2000016211"
-        },
-        {
-            "start_year": 2017,
-            "name": "САД-72",
-            "faculty_id": "20",
-            "speciality_id": "0602",
-            "group_br": 30990,
-            "id": "2000016212"
+            "name": "8ПС(з)-71",
+            "faculty_id": "70",
+            "speciality_id": "0534",
+            "group_br": 31199,
+            "id": "7000013786"
         },
         {
             "start_year": 2018,
-            "name": "САД-81",
-            "faculty_id": "20",
-            "speciality_id": "0602",
-            "group_br": 31441,
-            "id": "2000016323"
-        },
-        {
-            "start_year": 2018,
-            "name": "САД-82",
-            "faculty_id": "20",
-            "speciality_id": "0602",
-            "group_br": 31442,
-            "id": "2000016407"
+            "name": "8ПС(з)-81",
+            "faculty_id": "70",
+            "speciality_id": "0534",
+            "group_br": 31025,
+            "id": "7000015820"
         },
         {
             "start_year": 2019,
-            "name": "САД-91",
-            "faculty_id": "20",
-            "speciality_id": "0602",
-            "group_br": 31511,
-            "id": "2000017296"
-        },
-        {
-            "start_year": 2019,
-            "name": "САД-92",
-            "faculty_id": "20",
-            "speciality_id": "0602",
-            "group_br": 31512,
-            "id": "2000017300"
+            "name": "8ПС(з)-91",
+            "faculty_id": "70",
+            "speciality_id": "1130",
+            "group_br": 31557,
+            "id": "7000017305"
         },
         {
             "start_year": 2016,
-            "name": "САД(з)-61",
-            "faculty_id": "20",
-            "speciality_id": "0602",
-            "group_br": 31412,
-            "id": "2000016260"
-        },
-        {
-            "start_year": 2017,
-            "name": "САД(з)-71",
-            "faculty_id": "20",
-            "speciality_id": "0602",
-            "group_br": 31106,
-            "id": "2000016261"
-        },
-        {
-            "start_year": 2018,
-            "name": "САД(з)-81",
-            "faculty_id": "20",
-            "speciality_id": "0602",
-            "group_br": 31443,
-            "id": "2000016319"
-        },
-        {
-            "start_year": 2019,
-            "name": "САД(з)-91",
-            "faculty_id": "20",
-            "speciality_id": "0602",
-            "group_br": 31513,
-            "id": "2000017455"
-        },
-        {
-            "start_year": 2019,
-            "name": "ТМП-91",
-            "faculty_id": "20",
-            "speciality_id": "0942",
-            "group_br": 31095,
-            "id": "2000017288"
-        },
-        {
-            "start_year": 2019,
-            "name": "ТОРА-91",
-            "faculty_id": "20",
-            "speciality_id": "0944",
-            "group_br": 31507,
-            "id": "2000017290"
-        },
-        {
-            "start_year": 2019,
-            "name": "ТОРА-92",
-            "faculty_id": "20",
-            "speciality_id": "0944",
-            "group_br": 31452,
-            "id": "2000017302"
-        },
-        {
-            "start_year": 2019,
-            "name": "ТПК-91",
-            "faculty_id": "20",
-            "speciality_id": "0943",
-            "group_br": 31096,
-            "id": "2000017289"
-        },
-        {
-            "start_year": 2017,
-            "name": "ТЭПС-71",
-            "faculty_id": "20",
-            "speciality_id": "0186",
-            "group_br": 30991,
-            "id": "2000016308"
-        },
-        {
-            "start_year": 2017,
-            "name": "ТЭПС-72",
-            "faculty_id": "20",
-            "speciality_id": "0186",
-            "group_br": 30992,
-            "id": "2000016309"
-        },
-        {
-            "start_year": 2018,
-            "name": "ТЭПС-81",
-            "faculty_id": "20",
-            "speciality_id": "0186",
-            "group_br": 31444,
-            "id": "2000016324"
-        },
-        {
-            "start_year": 2018,
-            "name": "ТЭПС-82",
-            "faculty_id": "20",
-            "speciality_id": "0186",
-            "group_br": 31445,
-            "id": "2000016404"
-        },
-        {
-            "start_year": 2019,
-            "name": "ТЭПС-91",
-            "faculty_id": "20",
-            "speciality_id": "0186",
-            "group_br": 31514,
-            "id": "2000017292"
+            "name": "БИ-61",
+            "faculty_id": "70",
+            "speciality_id": "0575",
+            "group_br": 30950,
+            "id": "7000012111"
         },
         {
             "start_year": 2016,
-            "name": "ТЭПС(з)-61",
-            "faculty_id": "20",
-            "speciality_id": "0186",
-            "group_br": 31415,
-            "id": "2000016306"
+            "name": "БИ-62",
+            "faculty_id": "70",
+            "speciality_id": "0598",
+            "group_br": 31390,
+            "id": "7000012141"
         },
         {
             "start_year": 2017,
-            "name": "ТЭПС(з)-71",
-            "faculty_id": "20",
-            "speciality_id": "0186",
-            "group_br": 31414,
-            "id": "2000016262"
-        },
-        {
-            "start_year": 2019,
-            "name": "ТЭПС(з)-91",
-            "faculty_id": "20",
-            "speciality_id": "0186",
-            "group_br": 31516,
-            "id": "2000017454"
-        },
-        {
-            "start_year": 2018,
-            "name": "ЭБУ-81",
-            "faculty_id": "20",
-            "speciality_id": "0604",
-            "group_br": 31019,
-            "id": "2000016326"
-        },
-        {
-            "start_year": 2019,
-            "name": "ЭБУ-91",
-            "faculty_id": "20",
-            "speciality_id": "0604",
-            "group_br": 31091,
-            "id": "2000017293"
+            "name": "БИ-71",
+            "faculty_id": "70",
+            "speciality_id": "0575",
+            "group_br": 30841,
+            "id": "7000013770"
         },
         {
             "start_year": 2017,
-            "name": "ЭБУ(з)-71",
-            "faculty_id": "20",
-            "speciality_id": "0604",
-            "group_br": 31448,
-            "id": "2000016257"
+            "name": "БИ-72",
+            "faculty_id": "70",
+            "speciality_id": "0598",
+            "group_br": 30917,
+            "id": "7000013771"
         },
         {
             "start_year": 2018,
-            "name": "ЭБУ(з)-81",
-            "faculty_id": "20",
-            "speciality_id": "0604",
-            "group_br": 30932,
-            "id": "2000016322"
+            "name": "БИ-81",
+            "faculty_id": "70",
+            "speciality_id": "0575",
+            "group_br": 30881,
+            "id": "7000016125"
         },
         {
             "start_year": 2019,
-            "name": "ЭБУ(з)-91",
-            "faculty_id": "20",
-            "speciality_id": "0604",
-            "group_br": 31094,
-            "id": "2000017456"
+            "name": "БИ-91",
+            "faculty_id": "70",
+            "speciality_id": "0575",
+            "group_br": 31428,
+            "id": "7000017027"
+        },
+        {
+            "start_year": 2016,
+            "name": "ИБ-61",
+            "faculty_id": "70",
+            "speciality_id": "0532",
+            "group_br": 31231,
+            "id": "7000011303"
+        },
+        {
+            "start_year": 2016,
+            "name": "ИБ-62",
+            "faculty_id": "70",
+            "speciality_id": "0532",
+            "group_br": 31152,
+            "id": "7000011304"
+        },
+        {
+            "start_year": 2017,
+            "name": "ИБ-71",
+            "faculty_id": "70",
+            "speciality_id": "0532",
+            "group_br": 30842,
+            "id": "7000013765"
+        },
+        {
+            "start_year": 2018,
+            "name": "ИБ-81",
+            "faculty_id": "70",
+            "speciality_id": "0532",
+            "group_br": 31161,
+            "id": "7000016113"
+        },
+        {
+            "start_year": 2018,
+            "name": "ИБ-82",
+            "faculty_id": "70",
+            "speciality_id": "0532",
+            "group_br": 31162,
+            "id": "7000016114"
+        },
+        {
+            "start_year": 2019,
+            "name": "ИБ-91",
+            "faculty_id": "70",
+            "speciality_id": "0532",
+            "group_br": 31421,
+            "id": "7000017020"
+        },
+        {
+            "start_year": 2019,
+            "name": "ИБ-92",
+            "faculty_id": "70",
+            "speciality_id": "0532",
+            "group_br": 31422,
+            "id": "7000017021"
+        },
+        {
+            "start_year": 2015,
+            "name": "ИВТ-52",
+            "faculty_id": "70",
+            "speciality_id": "0524",
+            "group_br": 30916,
+            "id": "7000009252"
+        },
+        {
+            "start_year": 2016,
+            "name": "ИВТ-61",
+            "faculty_id": "70",
+            "speciality_id": "0524",
+            "group_br": 31232,
+            "id": "7000011298"
+        },
+        {
+            "start_year": 2016,
+            "name": "ИВТ-62",
+            "faculty_id": "70",
+            "speciality_id": "0524",
+            "group_br": 31233,
+            "id": "7000011299"
+        },
+        {
+            "start_year": 2017,
+            "name": "ИВТ-71",
+            "faculty_id": "70",
+            "speciality_id": "0524",
+            "group_br": 30843,
+            "id": "7000013752"
+        },
+        {
+            "start_year": 2017,
+            "name": "ИВТ-72",
+            "faculty_id": "70",
+            "speciality_id": "0524",
+            "group_br": 30855,
+            "id": "7000013753"
+        },
+        {
+            "start_year": 2018,
+            "name": "ИВТ-81",
+            "faculty_id": "70",
+            "speciality_id": "0524",
+            "group_br": 31165,
+            "id": "7000016108"
+        },
+        {
+            "start_year": 2018,
+            "name": "ИВТ-82",
+            "faculty_id": "70",
+            "speciality_id": "0524",
+            "group_br": 31166,
+            "id": "7000016109"
+        },
+        {
+            "start_year": 2019,
+            "name": "ИВТ-91",
+            "faculty_id": "70",
+            "speciality_id": "1124",
+            "group_br": 31419,
+            "id": "7000017066"
+        },
+        {
+            "start_year": 2019,
+            "name": "ИВТ-92",
+            "faculty_id": "70",
+            "speciality_id": "1124",
+            "group_br": 31420,
+            "id": "7000017067"
+        },
+        {
+            "start_year": 2016,
+            "name": "ПИ-61",
+            "faculty_id": "70",
+            "speciality_id": "0531",
+            "group_br": 31234,
+            "id": "7000011301"
+        },
+        {
+            "start_year": 2016,
+            "name": "ПИ-62",
+            "faculty_id": "70",
+            "speciality_id": "0531",
+            "group_br": 31235,
+            "id": "7000011302"
+        },
+        {
+            "start_year": 2017,
+            "name": "ПИ-71",
+            "faculty_id": "70",
+            "speciality_id": "0531",
+            "group_br": 30845,
+            "id": "7000013763"
+        },
+        {
+            "start_year": 2017,
+            "name": "ПИ-72",
+            "faculty_id": "70",
+            "speciality_id": "0531",
+            "group_br": 30846,
+            "id": "7000013764"
+        },
+        {
+            "start_year": 2018,
+            "name": "ПИ-81",
+            "faculty_id": "70",
+            "speciality_id": "0531",
+            "group_br": 31163,
+            "id": "7000016111"
+        },
+        {
+            "start_year": 2018,
+            "name": "ПИ-82",
+            "faculty_id": "70",
+            "speciality_id": "0531",
+            "group_br": 31164,
+            "id": "7000016112"
+        },
+        {
+            "start_year": 2019,
+            "name": "ПИ-91",
+            "faculty_id": "70",
+            "speciality_id": "1061",
+            "group_br": 31423,
+            "id": "7000017085"
+        },
+        {
+            "start_year": 2019,
+            "name": "ПИ-92",
+            "faculty_id": "70",
+            "speciality_id": "1061",
+            "group_br": 31424,
+            "id": "7000017086"
+        },
+        {
+            "start_year": 2016,
+            "name": "ПИЭ-61",
+            "faculty_id": "70",
+            "speciality_id": "0528",
+            "group_br": 30951,
+            "id": "7000011414"
+        },
+        {
+            "start_year": 2017,
+            "name": "ПИЭ-71",
+            "faculty_id": "70",
+            "speciality_id": "0528",
+            "group_br": 31367,
+            "id": "7000013759"
+        },
+        {
+            "start_year": 2018,
+            "name": "ПИЭ-81",
+            "faculty_id": "70",
+            "speciality_id": "0528",
+            "group_br": 30880,
+            "id": "7000016110"
+        },
+        {
+            "start_year": 2019,
+            "name": "ПИЭ-91",
+            "faculty_id": "70",
+            "speciality_id": "1126",
+            "group_br": 31427,
+            "id": "7000017084"
+        },
+        {
+            "start_year": 2016,
+            "name": "ПС-61",
+            "faculty_id": "70",
+            "speciality_id": "0533",
+            "group_br": 30961,
+            "id": "7000011438"
+        },
+        {
+            "start_year": 2016,
+            "name": "ПС-62",
+            "faculty_id": "70",
+            "speciality_id": "0533",
+            "group_br": 30962,
+            "id": "7000011439"
+        },
+        {
+            "start_year": 2017,
+            "name": "ПС-71",
+            "faculty_id": "70",
+            "speciality_id": "0533",
+            "group_br": 31190,
+            "id": "7000013767"
+        },
+        {
+            "start_year": 2017,
+            "name": "ПС-72",
+            "faculty_id": "70",
+            "speciality_id": "0533",
+            "group_br": 31191,
+            "id": "7000013768"
+        },
+        {
+            "start_year": 2018,
+            "name": "ПС-81",
+            "faculty_id": "70",
+            "speciality_id": "0533",
+            "group_br": 31179,
+            "id": "7000016115"
+        },
+        {
+            "start_year": 2018,
+            "name": "ПС-82",
+            "faculty_id": "70",
+            "speciality_id": "0533",
+            "group_br": 31180,
+            "id": "7000016116"
+        },
+        {
+            "start_year": 2019,
+            "name": "ПС-91",
+            "faculty_id": "70",
+            "speciality_id": "1129",
+            "group_br": 30985,
+            "id": "7000017087"
+        },
+        {
+            "start_year": 2019,
+            "name": "ПС-92",
+            "faculty_id": "70",
+            "speciality_id": "1129",
+            "group_br": 30986,
+            "id": "7000017088"
         }
     ],
     "72": [
