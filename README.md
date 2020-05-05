@@ -1,1 +1,1 @@
-# AltSTU API
+# API для приложения StudyHub
