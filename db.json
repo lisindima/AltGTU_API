@@ -126,72 +126,72 @@
     "changelog": [
         {
             "id": 0,
-            "version": "0.4.7",
-            "dateBuild": "10 февраля 2020",
-            "whatsNew": " • Добавлены PUSH-уведомления для чата! Теперь вы получите уведомления когда вам кто то напишет.",
-            "bugFixes": " • Исправлена сборка проекта в Xcode 11.4."
+            "version": "1.0.0",
+            "dateBuild": "10 июня 2020 г.",
+            "whatsNew": " • Первый релиз.",
+            "bugFixes": ""
         },
         {
             "id": 1,
-            "version": "0.4.8",
-            "dateBuild": "15 февраля 2020",
-            "whatsNew": "",
-            "bugFixes": " • Исправлен счетчик непрочитанных сообщений в чате.\n • Исправлен формат даты в сообщениях.\n • Исправлена сортировка сообщений."
+            "version": "1.0.1",
+            "dateBuild": "11 июня 2020 г.",
+            "whatsNew": " • Добавлены уведомления",
+            "bugFixes": ""
         },
         {
             "id": 2,
-            "version": "0.4.9",
-            "dateBuild": "18 февраля 2020",
-            "whatsNew": " • Сборка приложения на Swift 5.2, теперь оно работает еще быстрее!\n • Редизайн списка сообщений.",
-            "bugFixes": " • Поиск в списке сообщений."
+            "version": "1.0.2",
+            "dateBuild": "15 июня 2020 г.",
+            "whatsNew": "",
+            "bugFixes": "Исправлено чрезмерное использование оперативной памяти во время съемки."
         },
         {
             "id": 3,
-            "version": "0.5.0",
-            "dateBuild": "21 февраля 2020",
-            "whatsNew": " • Подписки! Теперь в приложении появились подписки, с помощью оформлении подписки пользователь сможет кастомизировать приложениие.\n • Появился список изменений в самом приложении.",
-            "bugFixes": "" 
+            "version": "1.1.0",
+            "dateBuild": "19 июня 2020 г.",
+            "whatsNew": " • Добавлена версия для Apple Watch.",
+            "bugFixes": " • Оптимизирован процесс загрузки изображений в списке осмотров.\n • Уменьшено потребления памяти в списке осмотров.\n • Различные исправления и устранения ошибок." 
         },
         {
             "id": 4,
-            "version": "0.5.1",
-            "dateBuild": "26 февраля 2020",
-            "whatsNew": " • Реализация URLSchema! Теперь вы сможете открыть приложение с помощью ссылки и перейти сразу к контенту.\n • Обновление зависимостей.",
-            "bugFixes": " • Небольшие исправления в потоке данных приложения." 
+            "version": "1.1.1",
+            "dateBuild": "17 июля 2020 г.",
+            "whatsNew": "",
+            "bugFixes": " • Исправлена ошибка, которая приводила к вылету приложения, если пользователь отказывался предоставить доступ к геолокации." 
         },
         {
             "id": 5,
-            "version": "0.5.2",
-            "dateBuild": "2 марта 2020",
+            "version": "1.1.2",
+            "dateBuild": "27 июля 2020 г.",
             "whatsNew": "",
-            "bugFixes": " • Улучшение в скорости загрузки сообщений в чате.\n • Мелкие оптимизации в работе чата." 
+            "bugFixes": " • Исправлено странное поведение списка фотографий во время съемки на некоторых моделях iPhone." 
         },
         {
             "id": 6,
-            "version": "0.5.3",
-            "dateBuild": "13 марта 2020",
-            "whatsNew": " • Список будет дополняться.",
-            "bugFixes": " • Список будет дополняться." 
+            "version": "1.1.3",
+            "dateBuild": "30 июля 2020 г.",
+            "whatsNew": " • Добавлен автоматический режим вспышки в камере, он установлен по умолчанию.",
+            "bugFixes": " • Исправлена ошибка, когда при фотографировании к фотографии прикреплялось не актуальное время.\n • Исправлена ошибка, когда при сохранение осмотра на устройстве, время осмотра могло быть не актуально." 
         },
         {
             "id": 7,
-            "version": "0.5.4",
-            "dateBuild": "25 марта 2020",
-            "whatsNew": " • Список будет дополняться.",
-            "bugFixes": " • Список будет дополняться." 
+            "version": "1.2.0",
+            "dateBuild": "31 июля 2020 г.",
+            "whatsNew": " • Добавлен список загруженных выплатных дел.",
+            "bugFixes": "" 
         },
         {
             "id": 8,
-            "version": "0.5.5",
-            "dateBuild": "1 апреля 2020",
-            "whatsNew": " • Список будет дополняться.",
-            "bugFixes": " • Список будет дополняться." 
+            "version": "1.2.1",
+            "dateBuild": "7 августа 2020 г.",
+            "whatsNew": " • Изменен стиль отображения уведомлений.\n • В уведомлениях теперь отображаются более подробные сообщения об ошибках.",
+            "bugFixes": "" 
         },
         {
             "id": 9,
-            "version": "0.5.6",
-            "dateBuild": "15 апреля 2020",
-            "whatsNew": " • Данные пользователя хранятся в Struct.\n • Данные загружаются с помощью распширения FirebaseFirestoreSwift.",
+            "version": "1.2.2",
+            "dateBuild": "4 сентебря 2020 г.",
+            "whatsNew": " • Поддержка iOS 13.7",
             "bugFixes": "" 
         }
     ],
@@ -199,7 +199,7 @@
         {
             "id": 0,
             "nameFramework": "URLImage",
-            "urlFramework": "https://github.com/onevcat/Kingfisher",
+            "urlFramework": "https://github.com/dmytro-anokhin/url-image",
             "textLicenseFramework": "MIT License\n\nCopyright (c) 2019 Dmytro Anokhin\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
         },
         {
